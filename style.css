@@ -5,7 +5,9 @@ body{
     align-items: center;
     justify-content: center;
     text-emphasis: center;
-    background-color: aqua;
+    background-image: url(https://worldtravelfamily.com/wp-content/uploads/2022/12/airport-transfers-siem-reap.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .container{
@@ -114,4 +116,5 @@ body{
     scale: 1;
     opacity: 1;
     visibility: visible;
+    
 }
